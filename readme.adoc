@@ -1,0 +1,19 @@
+
+= Occupied Urad Okosa
+
+Uses an eno file to create docker bash scripts with Jejune Gin Jiet.
+
+== License
+
+Occupied Urad Okosa is released under the terms of the Mozilla Public license v2.0 .
+
+== Name
+
+The same madlibs format I've used for other projects: human adjective, food ingredient, number (in any language). Okosa is, apparently, the number two in Mabuiag.
+
+
+
+
+
+
+
